@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amber-leaf-chicago-showroom.opal-bat-3716.chatgpt.site/sitemap.xml
