@@ -1,0 +1,27 @@
+const launch=document.getElementById('chat-launch'),panel=document.getElementById('cabinet-chat');
+if(launch&&panel){const input=document.getElementById('chat-question'),messages=document.getElementById('chat-messages');
+ const seenKey='kabbu-kabbie-icon-peek-v2';let greeted=false,timer=null,lastScroll=window.scrollY;
+ try{greeted=sessionStorage.getItem(seenKey)==='seen';}catch{}
+ const remember=()=>{greeted=true;try{sessionStorage.setItem(seenKey,'seen');}catch{}window.removeEventListener('scroll',onScroll);};
+ const stopPeek=()=>{clearTimeout(timer);timer=null;launch.classList.remove('kabbie-peeking');};
+ const close=()=>{remember();stopPeek();panel.hidden=true;panel.classList.remove('kabbie-greeting');launch.setAttribute('aria-expanded','false');launch.focus();};
+ const openChat=()=>{stopPeek();panel.hidden=false;launch.setAttribute('aria-expanded','true');input.focus();};
+ function onScroll(){const now=window.scrollY,down=now>lastScroll;lastScroll=now;if(greeted||!down||now<Math.max(360,window.innerHeight*.65)||!panel.hidden)return;
+  if(document.hidden||document.activeElement?.matches('input,textarea,select,[contenteditable=true]'))return;
+  remember();launch.classList.add('kabbie-peeking');const reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  timer=setTimeout(stopPeek,reduced?0:1200);
+ }
+ if(!greeted)window.addEventListener('scroll',onScroll,{passive:true});
+ document.querySelectorAll('[data-kabbie-question-form]').forEach(form=>form.addEventListener('submit',event=>{event.preventDefault();const field=form.elements.question;if(!field.value.trim()){field.value='';field.reportValidity();return;}remember();openChat();ask(field.value);field.value='';}));
+ document.querySelectorAll('[data-open-kabbie]').forEach(button=>button.addEventListener('click',()=>{remember();openChat();if(button.dataset.openKabbie)ask(button.dataset.openKabbie);}));
+ launch.addEventListener('click',()=>{remember();if(panel.hidden)openChat();else close();});
+ window.addEventListener('pagehide',()=>{clearTimeout(timer);window.removeEventListener('scroll',onScroll);});
+ document.getElementById('chat-close').addEventListener('click',close);
+ document.addEventListener('keydown',event=>{if(event.key==='Escape'&&!panel.hidden){event.preventDefault();close();}});
+ function answer(question){const q=question.toLowerCase();if(/showroom|visit|address|hours|chicago/.test(q))return ['Come see our Chicago showroom at 1200 W 37th St. Hours: Monday–Saturday, 9 AM–6 PM; Sunday closed. Call 773-247-8282 before visiting if you have a specific question.','Plan your showroom visit','/kabbie/showroom/'];if(/price|cost|quote|budget/.test(q))return ['Your price depends on cabinet sizes, finishes, quantities and optional organizers. The team confirms an itemized quote before ordering.','Tell us about your kitchen','/kabbie/request-quote/'];if(/ship|deliver|lead time|shipping/.test(q))return ['Delivery arrangements and timing need to be confirmed for your address and selected cabinets. I don’t have live shipping estimates.','Contact the showroom','/kabbie/showroom/#contact'];if(/order|plan|start|cabinet/.test(q))return ['Start with basic cabinets and their included features. Choose your sizes and finishes, then explore optional organizers matched to your cabinet planning model. Exact dimensions and fit are reviewed before ordering.','Start My Cabinet Plan','/kabbie/start-order/'];if(/shelf|shelves|storage|organize|accessor/.test(q))return ['Standard shelves are included in the basic door cabinets. Pull-outs, dividers and specialty organizers are optional upgrades. Check usable interior dimensions and any plumbing before selecting an accessory.','Explore storage solutions','/kabbie/storage-accessories/'];return ['I’m Kabbie, Kabby Home’s cabinet companion. This demo uses site information, so I can point you toward cabinets, storage and showroom details. For a project-specific answer, contact our team.','Browse help & FAQs','/kabbie/faq/'];}
+ function ask(question){const text=question.trim().slice(0,500);if(!text)return;const user=document.createElement('p');user.className='chat-bubble user';user.textContent=text;const [copy,label,href]=answer(text),reply=document.createElement('p');reply.className='chat-bubble assistant';reply.textContent=copy;const link=document.createElement('a');link.href=href;link.textContent=label+' →';reply.append(link);messages.append(user,reply);while(messages.children.length>25)messages.firstElementChild.remove();messages.scrollTop=messages.scrollHeight;}
+ panel.querySelectorAll('[data-chat-prompt]').forEach(button=>button.addEventListener('click',()=>ask(button.dataset.chatPrompt)));
+ document.getElementById('chat-form').addEventListener('submit',event=>{event.preventDefault();ask(input.value);input.value='';input.focus();});
+}
+
+const introVideo=document.querySelector('.kabbie-intro-video'),introToggle=document.querySelector('.kabbie-video-toggle');if(introVideo&&introToggle){introVideo.muted=true;const sync=()=>{introToggle.textContent=introVideo.paused?'Play video':'Pause video';introToggle.setAttribute('aria-label',introVideo.paused?'Play Kabbie video':'Pause Kabbie video');};introToggle.addEventListener('click',()=>{if(introVideo.paused)introVideo.play().catch(sync);else introVideo.pause();});introVideo.addEventListener('play',sync);introVideo.addEventListener('pause',sync);if(matchMedia('(prefers-reduced-motion: reduce)').matches){introVideo.autoplay=false;introVideo.pause();}else introVideo.play().catch(sync);sync();}
