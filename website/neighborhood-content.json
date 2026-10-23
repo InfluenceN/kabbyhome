@@ -1,0 +1,482 @@
+{
+  "Oak Lawn": {
+    "headline": "Practical storage. A warmer place to gather.",
+    "intro": "Everyday kitchens with room for cooking, homework and the things a family reaches for most.",
+    "projects": [
+      {
+        "title": "A place for the morning rush",
+        "finish": "Soft White",
+        "layout": "L-shaped kitchen",
+        "story": "A breakfast cabinet groups mugs, cereal and lunch supplies away from the main preparation area. Deep drawers beside the range keep cookware close at hand.",
+        "details": [
+          "Breakfast station",
+          "cookware drawers",
+          "concealed bins"
+        ],
+        "image": "finish-soft-white-room-v2.png"
+      },
+      {
+        "title": "The Sunday supper kitchen",
+        "finish": "Natural Oak",
+        "layout": "U-shaped kitchen",
+        "story": "An oak finish anchors a generous preparation run. A tall pantry gathers dry goods in one place, while a clear counter beside the oven makes serving easier.",
+        "details": [
+          "Tall pantry",
+          "serving zone",
+          "tray storage"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      }
+    ]
+  },
+  "Oak Brook": {
+    "headline": "Quiet finishes. Thoughtful details.",
+    "intro": "Considered cabinetry for open kitchens, generous gathering spaces and a connected pantry.",
+    "projects": [
+      {
+        "title": "The kitchen that opens to the room",
+        "finish": "Warm Ivory",
+        "layout": "Island kitchen",
+        "story": "Warm ivory cabinetry and an oak-accented island create a softer transition into the living area. Storage on the kitchen side keeps the seating edge uncluttered.",
+        "details": [
+          "Island seating",
+          "integrated bins",
+          "wide drawers"
+        ],
+        "image": "finish-warm-ivory-room-v2.png"
+      },
+      {
+        "title": "A pantry behind the scenes",
+        "finish": "Natural Oak",
+        "layout": "Kitchen and pantry",
+        "story": "A dedicated pantry wall brings small appliances, serving pieces and dry goods together. Open preparation space remains the priority on the main kitchen run.",
+        "details": [
+          "Appliance cabinet",
+          "pantry pull-outs",
+          "serving storage"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      }
+    ]
+  },
+  "Cicero": {
+    "headline": "Make every cabinet work harder.",
+    "intro": "Compact layouts, comfortable work zones and storage that earns its place.",
+    "projects": [
+      {
+        "title": "A bright kitchen with a better corner",
+        "finish": "Soft White",
+        "layout": "Compact L-shaped kitchen",
+        "story": "A light finish keeps the room feeling open. A corner storage system and full-extension drawers put cookware within reach without crowding the preparation run.",
+        "details": [
+          "Corner storage",
+          "full-extension drawers",
+          "light finishes"
+        ],
+        "image": "finish-soft-white-room-v2.png"
+      },
+      {
+        "title": "The two-cook galley",
+        "finish": "Charcoal Gray",
+        "layout": "Galley kitchen",
+        "story": "Two parallel cabinet runs give preparation and cleanup their own places. Tall storage sits at one end so everyday worktops stay clear.",
+        "details": [
+          "Separate work zones",
+          "tall pantry",
+          "narrow pull-out"
+        ],
+        "image": "color-charcoal-gray.png"
+      }
+    ]
+  },
+  "Maywood": {
+    "headline": "A familiar room, thoughtfully renewed.",
+    "intro": "Warm palettes and practical updates that keep daily routines at the center of the plan.",
+    "projects": [
+      {
+        "title": "A fresh start in warm ivory",
+        "finish": "Warm Ivory",
+        "layout": "L-shaped kitchen",
+        "story": "Warm ivory fronts sit alongside oak accents for a comfortable, layered palette. The plan groups dishes beside the sink and cookware near the range.",
+        "details": [
+          "Dish drawers",
+          "cookware zone",
+          "oak accents"
+        ],
+        "image": "finish-warm-ivory-room-v2.png"
+      },
+      {
+        "title": "Room for a week of groceries",
+        "finish": "Natural Oak",
+        "layout": "Kitchen with pantry wall",
+        "story": "A storage-led plan replaces scattered cupboards with a single pantry zone. Adjustable shelving and a slim pull-out make small ingredients easier to find.",
+        "details": [
+          "Adjustable pantry",
+          "spice pull-out",
+          "deep drawers"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      }
+    ]
+  },
+  "Oak Park": {
+    "headline": "Character in the details. Ease in the everyday.",
+    "intro": "Cabinet ideas that bring warm materials and useful storage into an established home.",
+    "projects": [
+      {
+        "title": "An oak kitchen with a lighter touch",
+        "finish": "Natural Oak",
+        "layout": "L-shaped kitchen",
+        "story": "Oak cabinetry and a pale worktop form a calm palette. A shallow display shelf leaves space for favorite ceramics while drawers handle the everyday work.",
+        "details": [
+          "Oak finish",
+          "display shelf",
+          "organized drawers"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      },
+      {
+        "title": "A considered refresh in soft white",
+        "finish": "Soft White",
+        "layout": "U-shaped kitchen",
+        "story": "Simple framed doors create a familiar backdrop. The proposed layout keeps preparation space between sink and range, with a separate cabinet for baking trays.",
+        "details": [
+          "Framed doors",
+          "preparation zone",
+          "tray divider"
+        ],
+        "image": "finish-soft-white-room-v2.png"
+      }
+    ]
+  },
+  "Brookfield": {
+    "headline": "Open counters. A place for the essentials.",
+    "intro": "A kitchen that balances practical family storage with a welcoming everyday feel.",
+    "projects": [
+      {
+        "title": "The after-school landing place",
+        "finish": "Warm Ivory",
+        "layout": "Peninsula kitchen",
+        "story": "A peninsula creates a place to settle in while dinner is prepared. A drawer for lunch supplies and a nearby snack cabinet keep the busiest routines together.",
+        "details": [
+          "Peninsula seating",
+          "snack storage",
+          "lunch drawer"
+        ],
+        "image": "finish-warm-ivory-room-v2.png"
+      },
+      {
+        "title": "A better working corner",
+        "finish": "Natural Oak",
+        "layout": "L-shaped kitchen",
+        "story": "A redesigned corner and an uninterrupted preparation run make the most of the footprint. Oak cabinetry adds warmth without relying on extra decorative detail.",
+        "details": [
+          "Accessible corner",
+          "preparation run",
+          "cookware drawers"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      }
+    ]
+  },
+  "Berwyn": {
+    "headline": "A compact footprint. A complete kitchen.",
+    "intro": "Well-planned corners, lighter palettes and storage sized around what you use.",
+    "projects": [
+      {
+        "title": "The efficient bungalow kitchen",
+        "finish": "Soft White",
+        "layout": "Compact U-shaped kitchen",
+        "story": "A soft white palette pairs with a clear sequence of pantry, preparation and cleanup zones. Drawer inserts keep utensils organized within the existing footprint.",
+        "details": [
+          "Utensil inserts",
+          "pantry cabinet",
+          "clear counters"
+        ],
+        "image": "finish-soft-white-room-v2.png"
+      },
+      {
+        "title": "A place for cooking and coffee",
+        "finish": "Charcoal Gray",
+        "layout": "Galley kitchen",
+        "story": "Charcoal lower cabinetry gives the room a grounded feel. Coffee supplies move to the end of the run, leaving the main worktop open for cooking.",
+        "details": [
+          "Coffee zone",
+          "narrow storage",
+          "wide base drawers"
+        ],
+        "image": "color-charcoal-gray.png"
+      }
+    ]
+  },
+  "Downers Grove": {
+    "headline": "Room to cook. Room to come together.",
+    "intro": "Balanced kitchen layouts with space for generous preparation and shared meals.",
+    "projects": [
+      {
+        "title": "The island with a purpose",
+        "finish": "Natural Oak",
+        "layout": "Island kitchen",
+        "story": "An oak island combines a broad preparation surface with cookware drawers. Seating stays on the opposite edge so gathering and cooking each have their own space.",
+        "details": [
+          "Preparation island",
+          "cookware drawers",
+          "seating edge"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      },
+      {
+        "title": "The baking-day kitchen",
+        "finish": "Warm Ivory",
+        "layout": "U-shaped kitchen",
+        "story": "A dedicated baking zone brings mixing bowls, trays and small appliances together. Warm ivory cabinetry keeps the larger cabinet runs visually quiet.",
+        "details": [
+          "Baking drawers",
+          "tray dividers",
+          "appliance storage"
+        ],
+        "image": "finish-warm-ivory-room-v2.png"
+      }
+    ]
+  },
+  "Naperville": {
+    "headline": "A kitchen for the rhythm of family life.",
+    "intro": "Generous preparation, useful pantry storage and a comfortable place to gather.",
+    "projects": [
+      {
+        "title": "Oak, light and everyday gathering",
+        "finish": "Natural Oak",
+        "layout": "Island kitchen",
+        "story": "The concept pairs warm oak cabinetry with a pale worktop and a gathering island. A pantry wall handles groceries so the main preparation surface can stay clear.",
+        "details": [
+          "Gathering island",
+          "pantry wall",
+          "deep cookware drawers"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      },
+      {
+        "title": "A calmer start to the day",
+        "finish": "Soft White",
+        "layout": "L-shaped kitchen with peninsula",
+        "story": "A breakfast zone at the end of the run keeps morning routines outside the main cooking area. Drawer-based storage makes dishes and lunch supplies easy to find.",
+        "details": [
+          "Breakfast zone",
+          "dish drawers",
+          "peninsula seating"
+        ],
+        "image": "finish-soft-white-room-v2.png"
+      }
+    ]
+  },
+  "Schaumburg": {
+    "headline": "Organized for the way you actually cook.",
+    "intro": "Clear cabinet zones, flexible pantry storage and finishes that work together.",
+    "projects": [
+      {
+        "title": "A pantry that keeps up",
+        "finish": "Natural Oak",
+        "layout": "Kitchen with tall storage",
+        "story": "A continuous pantry wall makes room for groceries, serving pieces and small appliances. The island provides a separate worktop for preparation and packing lunches.",
+        "details": [
+          "Tall pantry",
+          "appliance storage",
+          "preparation island"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      },
+      {
+        "title": "A streamlined kitchen in charcoal",
+        "finish": "Charcoal Gray",
+        "layout": "L-shaped kitchen",
+        "story": "Charcoal fronts establish a simple palette. Wide drawers replace several small lower cupboards, and a narrow pull-out gives oils and spices a dedicated place.",
+        "details": [
+          "Wide drawers",
+          "spice pull-out",
+          "simple palette"
+        ],
+        "image": "color-charcoal-gray.png"
+      }
+    ]
+  },
+  "Arlington Heights": {
+    "headline": "Built around meals, mornings and company.",
+    "intro": "An inviting kitchen with a sensible place for the things that make it work.",
+    "projects": [
+      {
+        "title": "The kitchen ready for company",
+        "finish": "Warm Ivory",
+        "layout": "Island kitchen",
+        "story": "An ivory perimeter and oak-accented island create an inviting room for cooking and gathering. Serving pieces sit close to the dining side of the plan.",
+        "details": [
+          "Serving storage",
+          "seating island",
+          "concealed bins"
+        ],
+        "image": "finish-warm-ivory-room-v2.png"
+      },
+      {
+        "title": "Everyday essentials within reach",
+        "finish": "Soft White",
+        "layout": "U-shaped kitchen",
+        "story": "The plan places dishes, utensils and cookware in easy-to-open drawers. A tall cabinet gathers bulk storage while keeping the working counters open.",
+        "details": [
+          "Dish drawers",
+          "utensil inserts",
+          "tall storage"
+        ],
+        "image": "finish-soft-white-room-v2.png"
+      }
+    ]
+  },
+  "Evanston": {
+    "headline": "Thoughtful cabinetry for a well-used home.",
+    "intro": "Light finishes, considered proportions and practical storage for daily cooking.",
+    "projects": [
+      {
+        "title": "An airy kitchen with oak warmth",
+        "finish": "Natural Oak",
+        "layout": "Galley kitchen",
+        "story": "Warm oak lower cabinetry and a pale worktop keep the palette simple. A shallow storage zone holds everyday glassware without taking over the preparation space.",
+        "details": [
+          "Oak finish",
+          "glassware storage",
+          "clear worktop"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      },
+      {
+        "title": "Soft white, with room to work",
+        "finish": "Soft White",
+        "layout": "L-shaped kitchen",
+        "story": "A clean worktop between sink and range forms the center of the plan. A tall end cabinet organizes pantry supplies, with drawers below for pots and pans.",
+        "details": [
+          "Preparation zone",
+          "pantry cabinet",
+          "cookware drawers"
+        ],
+        "image": "finish-soft-white-room-v2.png"
+      }
+    ]
+  },
+  "Skokie": {
+    "headline": "Small details. A more useful kitchen.",
+    "intro": "Cabinet ideas for easier reach, clearer counters and flexible everyday storage.",
+    "projects": [
+      {
+        "title": "The well-organized galley",
+        "finish": "Warm Ivory",
+        "layout": "Galley kitchen",
+        "story": "One run focuses on cooking while the other handles cleanup and dishes. A warm ivory finish brings the two sides together, with useful storage at each end.",
+        "details": [
+          "Separate work zones",
+          "dish storage",
+          "slim pull-out"
+        ],
+        "image": "finish-warm-ivory-room-v2.png"
+      },
+      {
+        "title": "A kitchen for everyday reach",
+        "finish": "Natural Oak",
+        "layout": "L-shaped kitchen",
+        "story": "Frequently used dishes and cookware move into lower drawers. A pull-out pantry makes small items easier to see, while the counter remains open for preparation.",
+        "details": [
+          "Lower drawers",
+          "pantry pull-out",
+          "accessible storage"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      }
+    ]
+  },
+  "Joliet": {
+    "headline": "A working kitchen with a welcoming feel.",
+    "intro": "Durable-looking palettes, clear work zones and storage for the full household.",
+    "projects": [
+      {
+        "title": "The generous oak kitchen",
+        "finish": "Natural Oak",
+        "layout": "U-shaped kitchen",
+        "story": "An oak palette gives a generous cabinet run a warm presence. Cookware, pantry goods and cleanup supplies each have a defined storage zone.",
+        "details": [
+          "Cookware zone",
+          "pantry cabinet",
+          "concealed cleanup"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      },
+      {
+        "title": "A refresh with fewer compromises",
+        "finish": "Soft White",
+        "layout": "L-shaped kitchen",
+        "story": "A light finish works with a simple, practical layout. Wide drawers and a corner storage system bring more everyday items into usable space.",
+        "details": [
+          "Wide drawers",
+          "corner storage",
+          "light finish"
+        ],
+        "image": "finish-soft-white-room-v2.png"
+      }
+    ]
+  },
+  "Tinley Park": {
+    "headline": "Space for two cooks and a full table.",
+    "intro": "Family kitchen ideas with room for preparation, storage and the moments between meals.",
+    "projects": [
+      {
+        "title": "The two-cook family kitchen",
+        "finish": "Warm Ivory",
+        "layout": "Island kitchen",
+        "story": "The island takes on preparation while the perimeter supports cooking and cleanup. Warm ivory fronts and an oak accent create a relaxed, connected palette.",
+        "details": [
+          "Preparation island",
+          "separate work zones",
+          "cookware drawers"
+        ],
+        "image": "finish-warm-ivory-room-v2.png"
+      },
+      {
+        "title": "A pantry for the weekly shop",
+        "finish": "Natural Oak",
+        "layout": "L-shaped kitchen with pantry",
+        "story": "A tall storage bank organizes groceries and small appliances. The main worktop remains available for cooking, with a nearby cabinet for trays and serving pieces.",
+        "details": [
+          "Tall pantry",
+          "appliance cabinet",
+          "tray storage"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      }
+    ]
+  },
+  "Orland Park": {
+    "headline": "A gathering place, with storage to match.",
+    "intro": "Warm materials and purposeful cabinetry for busy cooking days and relaxed evenings.",
+    "projects": [
+      {
+        "title": "A warm kitchen with a generous island",
+        "finish": "Natural Oak",
+        "layout": "Island kitchen",
+        "story": "Oak cabinetry and a pale worktop create a warm, simple backdrop. The island combines preparation drawers on one side with a comfortable gathering edge on the other.",
+        "details": [
+          "Preparation drawers",
+          "island seating",
+          "pantry storage"
+        ],
+        "image": "finish-natural-oak-room-v2.png"
+      },
+      {
+        "title": "The kitchen that stays collected",
+        "finish": "Charcoal Gray",
+        "layout": "U-shaped kitchen",
+        "story": "A charcoal palette gives the cabinet runs a calm, unified look. Concealed bins, dish drawers and an appliance cabinet help keep the worktops ready to use.",
+        "details": [
+          "Concealed bins",
+          "dish drawers",
+          "appliance cabinet"
+        ],
+        "image": "color-charcoal-gray.png"
+      }
+    ]
+  }
+}

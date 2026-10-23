@@ -1,0 +1,507 @@
+[
+  {
+    "url": "/bathroom-vanities/",
+    "title": "Bathroom Vanities | Styles, Sizes & RTA Guides",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/",
+    "title": "Kitchen Cabinets in Chicago",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/chicago-kitchen-cabinets/",
+    "title": "Chicago Kitchen Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/chicago-kitchen-cabinets/collections/natural-oak/",
+    "title": "Natural Oak",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/chicago-kitchen-cabinets/collections/charcoal-gray/",
+    "title": "Charcoal Gray",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/chicago-kitchen-cabinets/collections/soft-white/",
+    "title": "Soft White",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/chicago-kitchen-cabinets/collections/warm-ivory/",
+    "title": "Warm Ivory",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/",
+    "title": "Cabinet Services in Chicago",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/kitchen-cabinets-pricing/",
+    "title": "Kitchen Cabinets Pricing",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/kitchen-cabinets-installation/",
+    "title": "Kitchen Cabinets Installation",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/custom-kitchen-cabinets/",
+    "title": "Custom Kitchen Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/cabinet-makers/",
+    "title": "Cabinet Makers",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/kitchen-remodel/",
+    "title": "Kitchen Remodel",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/kitchen-design/",
+    "title": "Kitchen Design",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/kitchen-cabinet-trends-2027/",
+    "title": "Kitchen Cabinet Trends 2027",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/best-kitchen-cabinets-chicago/",
+    "title": "Best Kitchen Cabinets Chicago",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/showroom/",
+    "title": "Visit Our Chicago Showroom",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/",
+    "title": "Chicago-Area Neighborhoods & Showroom Guides",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/oak-lawn/",
+    "title": "Kitchen Cabinets in Oak Lawn | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/oak-brook/",
+    "title": "Kitchen Cabinets in Oak Brook | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/cicero/",
+    "title": "Kitchen Cabinets in Cicero | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/maywood/",
+    "title": "Kitchen Cabinets in Maywood | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/oak-park/",
+    "title": "Kitchen Cabinets in Oak Park | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/brookfield/",
+    "title": "Kitchen Cabinets in Brookfield | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/berwyn/",
+    "title": "Kitchen Cabinets in Berwyn | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/downers-grove/",
+    "title": "Kitchen Cabinets in Downers Grove | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/naperville/",
+    "title": "Kitchen Cabinets in Naperville | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/schaumburg/",
+    "title": "Kitchen Cabinets in Schaumburg | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/arlington-heights/",
+    "title": "Kitchen Cabinets in Arlington Heights | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/evanston/",
+    "title": "Kitchen Cabinets in Evanston | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/skokie/",
+    "title": "Kitchen Cabinets in Skokie | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/joliet/",
+    "title": "Kitchen Cabinets in Joliet | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/tinley-park/",
+    "title": "Kitchen Cabinets in Tinley Park | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/orland-park/",
+    "title": "Kitchen Cabinets in Orland Park | Showroom & Local Ideas",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/",
+    "title": "Projects & Cabinet Comparisons",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/ikea-vs-custom-cabinets/",
+    "title": "IKEA vs Custom Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/home-depot-vs-custom-cabinets/",
+    "title": "Home Depot Cabinets vs Custom Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/menards-vs-custom-cabinets/",
+    "title": "Menards vs Custom Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/builder-grade-vs-custom-cabinets/",
+    "title": "Builder Grade vs Custom Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/stock-semi-custom-custom/",
+    "title": "Stock vs Semi-Custom vs Custom Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/shaker-vs-modern-cabinets/",
+    "title": "Shaker vs Modern Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/white-oak-vs-maple-cabinets/",
+    "title": "White Oak vs Maple Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/faq/",
+    "title": "Frequently Asked Questions",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/resources/",
+    "title": "Cabinet Guides & Resources",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/resources/cabinet-cost-guide/",
+    "title": "Cabinet Cost Guide",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/resources/chicago-remodeling-guide/",
+    "title": "Chicago Remodeling Guide",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/resources/cabinet-materials-guide/",
+    "title": "Cabinet Materials Guide",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/resources/kitchen-design-guide/",
+    "title": "Kitchen Design Guide",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/resources/chicago-homeowner-guide/",
+    "title": "Chicago Homeowner Guide",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/professionals/",
+    "title": "Cabinetry for Contractors & Developers",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/sustainability/",
+    "title": "Sustainability & Community",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/about/",
+    "title": "About Kabby Home",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/kitchen-survey/",
+    "title": "Find Your Kitchen Starting Point",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/start-order/",
+    "title": "Start Your Cabinet Order",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/privacy/",
+    "title": "Privacy",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/cabinets/",
+    "title": "Shop Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/base/",
+    "title": "base Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/wall/",
+    "title": "wall Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/tall/",
+    "title": "tall Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/standard-base/",
+    "title": "Standard door base cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/drawer-base/",
+    "title": "Three-drawer base cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/sink-base/",
+    "title": "Sink base cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/corner-base/",
+    "title": "Corner base cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/narrow-base/",
+    "title": "Narrow base cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/wide-base/",
+    "title": "Wide doors-and-drawer unit",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/standard-wall/",
+    "title": "Standard wall cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/tall-wall/",
+    "title": "Tall wall cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/corner-wall/",
+    "title": "Corner wall cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/pantry/",
+    "title": "Tall pantry cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/utility/",
+    "title": "Utility & storage cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/colors-materials/",
+    "title": "Colors & Materials",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/storage-accessories/",
+    "title": "Storage Accessories",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/how-it-works/",
+    "title": "How It Works",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/quote-confirmation/",
+    "title": "Your Prepared Quote Request",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/request-quote/",
+    "title": "Tell Us What You Want. Get Your Kitchen Quote",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/kitchens/",
+    "title": "Kitchen Packages & Layout Planning",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/estimate-your-kitchen/",
+    "title": "Estimate Your Kitchen",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/measurement-guide/",
+    "title": "Kitchen Cabinet Measurement Guide",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/kitchen-inspiration/",
+    "title": "Find Your Kitchen Inspiration",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/ideas-guides/",
+    "title": "Good Ideas for Better Kitchens",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/neighbor-stories/",
+    "title": "Neighbor Stories",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/kitchen-inspiration/everyday-stories/retirement-kitchen-easier-reach/",
+    "title": "The kitchen they love. Cabinets for their next chapter.",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/kitchen-inspiration/everyday-stories/new-couple-organized-cabinet-accessories/",
+    "title": "A shared kitchen. A simpler way to keep it tidy.",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/kitchen-inspiration/everyday-stories/student-rental-kitchen-storage/",
+    "title": "A small student kitchen, with a place for the essentials.",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/kitchen-inspiration/everyday-stories/family-kitchen-young-children/",
+    "title": "Baby essentials. Dinner supplies. A place for both.",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/where-to-buy-kitchen-cabinets/",
+    "title": "Where to Buy Kitchen Cabinets When Choices Feel Limited and Prices Feel High",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/too-many-kitchen-cabinet-options/",
+    "title": "Too Many Kitchen Cabinet Options? How to Narrow Your Choices",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/how-to-choose-kitchen-designer/",
+    "title": "How to Choose a Kitchen Designer Without Guessing",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/do-you-need-kitchen-designer/",
+    "title": "Do You Need a Kitchen Designer—or Just Help Choosing Cabinets?",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/measure-your-kitchen/",
+    "title": "How to Measure Your Kitchen for New Cabinets",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/install-kitchen-cabinets-yourself/",
+    "title": "Can You Install Kitchen Cabinets Yourself?",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/weekend-cabinet-upgrades/",
+    "title": "5 Weekend Upgrades for Your Existing Cabinets",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/organize-without-buying/",
+    "title": "How to Organize Kitchen Cabinets Without Buying More Storage",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/deep-cabinet-organization/",
+    "title": "Deep Cabinets, Hidden Clutter: Making Everything Easier to Reach",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/small-kitchen-storage/",
+    "title": "7 Smart Ways to Organize a Small Kitchen",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/plates-bowls-glasses/",
+    "title": "How to Organize Plates, Bowls and Glasses in Cabinets",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/replace-reface-repaint/",
+    "title": "Replace, Reface or Repaint? Choosing the Right Cabinet Renovation",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/kitchen-renovation-checklist/",
+    "title": "Kitchen Cabinet Renovation Checklist",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/cabinet-cost-factors/",
+    "title": "What Affects the Cost of Kitchen Cabinets?",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/shaker-vs-slab/",
+    "title": "Shaker vs. Slab: Choosing Cabinet Door Styles",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/ideas-guides/choose-your-kitchen-layout/",
+    "title": "Choosing the Best Kitchen Layout for Your Space",
+    "robots": "noindex,follow"
+  }
+]

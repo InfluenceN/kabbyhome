@@ -1,0 +1,51 @@
+/* Shared V2 action system. Loaded after page styles to keep controls consistent. */
+:root{--action-bg:#293a2b;--action-hover:#405638;--action-pressed:#1d2c20;--action-border:#69765f;--action-cream:#f8edcf;--action-focus:#a66b31;--action-radius:6px;--action-height:48px;--action-speed:160ms}
+body .btn.btn,body .nav .nav-quote{display:inline-flex;align-items:center;justify-content:center;gap:12px;min-height:var(--action-height);padding:13px 22px;border:1px solid var(--action-bg);border-radius:var(--action-radius);background:var(--action-bg);color:#fff;font-family:inherit;font-size:14px;font-weight:600;line-height:1.4;letter-spacing:0;text-align:center;text-decoration:none;box-shadow:none;cursor:pointer;transition:background-color var(--action-speed),border-color var(--action-speed),color var(--action-speed),box-shadow var(--action-speed);vertical-align:middle}
+body .btn.btn.outline{background:transparent;color:var(--action-bg);border-color:var(--action-border)}
+body .btn.btn.light,body .hero .btn.btn,body .home-closing .btn.btn{background:var(--action-cream);color:var(--action-bg);border-color:var(--action-cream)}
+body .btn.btn:disabled,body .btn.btn[aria-disabled=true],body .nav .nav-quote[aria-disabled=true]{opacity:.45;cursor:not-allowed;box-shadow:none;pointer-events:none}
+body .textlink.textlink{display:inline-flex;align-items:center;gap:8px;background:transparent;border:0;border-bottom:1px solid currentColor;border-radius:0;min-height:32px;padding:4px 0;color:var(--action-bg);font-family:inherit;font-size:14px;font-weight:500;line-height:1.5;letter-spacing:0;text-decoration:none;cursor:pointer;transition:color var(--action-speed),border-color var(--action-speed),background-color var(--action-speed)}
+body .hero .textlink.textlink,body .footer .textlink.textlink,body .home-closing .textlink.textlink{color:inherit}
+button,summary,[role=button],a{touch-action:manipulation}
+button:not(.btn),summary,[role=button]{transition:background-color var(--action-speed),border-color var(--action-speed),color var(--action-speed),box-shadow var(--action-speed)}
+button:not(.btn):disabled{cursor:not-allowed}
+:where(button,a,summary,[role=button]):focus-visible{outline:3px solid var(--action-focus);outline-offset:4px}
+body .btn.btn:focus-visible,body .textlink.textlink:focus-visible,body .nav .nav-quote:focus-visible{outline:3px solid var(--action-focus);outline-offset:4px}
+@media(hover:hover){
+ body .btn.btn:not(:disabled):not([aria-disabled=true]):hover,body .nav .nav-quote:hover{background:var(--action-hover);border-color:var(--action-hover);color:#fff;box-shadow:0 4px 10px #23351e20}
+ body .btn.btn.outline:not(:disabled):not([aria-disabled=true]):hover{background:#e7ecdf;color:#293a2b;border-color:#405638;box-shadow:0 4px 10px #23351e12}
+ body .btn.btn.light:not(:disabled):hover,body .hero .btn.btn:not(:disabled):hover,body .home-closing .btn.btn:not(:disabled):hover{background:#f3dfad;color:#293a2b;border-color:#f3dfad}
+ body .textlink.textlink:hover{color:#7b542d;border-bottom-color:#7b542d}
+ body .hero .textlink.textlink:hover,body .footer .textlink.textlink:hover{color:#f0d391;border-color:#f0d391}
+ button:not(.btn):not(:disabled):hover,summary:hover,[role=button]:not([aria-disabled=true]):hover{box-shadow:inset 0 0 0 1px #82916a80}
+ .navlinks>a:hover,.mobile-nav a:hover,.mega a:hover{color:#697d45;text-decoration:underline;text-underline-offset:5px}
+}
+body .btn.btn:not(:disabled):active,body .nav .nav-quote:active{background:var(--action-pressed);border-color:var(--action-pressed);color:#fff;box-shadow:none}
+@media(max-width:640px){body .btn.btn,body .nav .nav-quote{min-height:48px;padding:12px 18px;font-size:14px}body .textlink.textlink{font-size:14px}}
+@media(prefers-reduced-motion:reduce){button,a,summary,[role=button]{transition:none!important}}
+@media(max-width:1100px){body .nav .nav-quote{display:none}}
+/* Closed navigation remains hidden even when component display styles apply. */
+.header .mega[hidden],.header .mobile-nav[hidden]{display:none!important}
+/* Fill is hover feedback, not a request/loading status. */
+body .btn.btn,body .nav .nav-quote{background-image:linear-gradient(#173923,#173923);background-size:0% 100%;background-position:left center;background-repeat:no-repeat;transition:background-size 380ms cubic-bezier(.2,.65,.3,1),color 180ms,border-color 180ms,box-shadow 180ms}
+body .btn.btn[href^="/kabbie/start-order/"],body .hero .btn.btn.plan-action{background-color:transparent;color:#293a2b;border-color:#6a795d;box-shadow:none}
+body .hero .btn.btn.plan-action{background-color:#f8f4e8e6;color:#293a2b}
+body .btn.btn.quote-action,body .nav .btn.nav-quote{background-color:#293a2b;color:#fff;border-color:#293a2b;box-shadow:0 3px 8px #172f1d20}
+body .hero .btn.btn.quote-action{background-color:#293a2b;color:#fff;border-color:#dce5cf}
+@media(hover:hover){body .btn.btn:not(:disabled):not([aria-disabled=true]):hover,body .nav .btn.nav-quote:hover,body .hero .btn.btn:hover,body .home-closing .btn.btn:hover{background-image:linear-gradient(#173923,#173923);background-size:100% 100%;color:#fff;border-color:#173923;box-shadow:0 4px 12px #1e342526;background-color:inherit}body .btn.btn.quote-action:hover,body .nav .btn.nav-quote:hover{background-color:#293a2b}body .btn.btn.outline:hover{background-color:transparent}body .textlink.textlink:hover{background-image:linear-gradient(#173923,#173923);background-size:100% 2px;background-position:left bottom;background-repeat:no-repeat}}
+.quote-label-short{display:none}.hero-main-actions{display:flex;flex-wrap:wrap;align-items:center;gap:14px}.hero-main-actions .hero-request-button{width:auto;min-width:250px}.hero-main-actions .plan-action{min-width:220px}.header .nav .nav-quote{white-space:nowrap}.header .nav .nav-plan{white-space:nowrap}
+@media(max-width:1100px){body .nav .btn.nav-quote{display:inline-flex}.header .nav .btn.nav-plan{display:none}}
+@media(max-width:600px){.quote-label-full{display:none}.quote-label-short{display:inline}.header .nav{gap:12px}.header .nav .btn.nav-quote{padding:11px 12px;min-height:44px;font-size:12px;max-width:none}.header .nav .brand{font-size:21px;gap:7px}.hero-main-actions{align-items:stretch;flex-direction:column}.hero-main-actions .btn.btn{width:100%;min-width:0}}
+@media(prefers-reduced-motion:reduce){body .btn.btn,body .nav .nav-quote{transition:none}}
+body .hero .hero-main-actions .btn.btn{background-image:linear-gradient(#173923,#173923);background-position:left center;background-repeat:no-repeat;background-size:0% 100%;transition:background-size 380ms cubic-bezier(.2,.65,.3,1),color 180ms,border-color 180ms}body .hero .hero-main-actions .btn.btn.quote-action{background-color:#293a2b;color:#fff}body .hero .hero-main-actions .btn.btn.plan-action{background-color:#f8f4e8e6;color:#293a2b;border-color:#87957d}@media(hover:hover){body .hero .hero-main-actions .btn.btn:hover{background-size:100% 100%;color:#fff;border-color:#173923}}
+@media(hover:hover){body .btn.btn:is(.outline,.light,.plan-action):not(:disabled):not([aria-disabled=true]):hover{background-image:linear-gradient(#173923,#173923);background-size:100% 100%;background-position:left center;background-repeat:no-repeat;color:#fff;border-color:#173923}}
+
+/* Light actions on dark sections retain a visible surface, including planner links. */
+body .home-journey .btn.btn.light{background-color:var(--action-cream);color:var(--action-bg);border-color:var(--action-cream)}
+@media(hover:hover){body .home-journey .btn.btn.light:not(:disabled):not([aria-disabled=true]):hover{background-color:var(--action-cream);background-size:100% 100%;color:#fff;border-color:var(--action-cream)}}
+body .home-journey .btn.btn.light:active{background-color:var(--action-pressed);background-size:100% 100%;color:#fff}
+
+/* Footer planner actions need contrast against the dark footer. */
+body .footer .btn.btn.footer-order-btn{background-color:var(--action-cream);color:var(--action-bg);border-color:var(--action-cream)}
+@media(hover:hover){body .footer .btn.btn.footer-order-btn:not(:disabled):not([aria-disabled=true]):hover{background-color:var(--action-cream);background-size:100% 100%;color:#fff;border-color:var(--action-cream)}}
+body .footer .btn.btn.footer-order-btn:active{background-color:var(--action-pressed);background-size:100% 100%;color:#fff}

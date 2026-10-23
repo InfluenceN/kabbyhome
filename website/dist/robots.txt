@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://influencen.github.io/kabbyhome/sitemap.xml

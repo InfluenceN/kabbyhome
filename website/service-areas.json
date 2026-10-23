@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Oak Lawn",
+    "lat": 41.719979,
+    "lng": -87.750562
+  },
+  {
+    "name": "Oak Brook",
+    "lat": 41.8329461,
+    "lng": -87.9286685
+  },
+  {
+    "name": "Cicero",
+    "lat": 41.851159,
+    "lng": -87.749156
+  },
+  {
+    "name": "Maywood",
+    "lat": 41.886254,
+    "lng": -87.839146
+  },
+  {
+    "name": "Oak Park",
+    "lat": 41.88865,
+    "lng": -87.794492
+  },
+  {
+    "name": "Brookfield",
+    "lat": 41.8222589,
+    "lng": -87.8439687
+  },
+  {
+    "name": "Berwyn",
+    "lat": 41.843284,
+    "lng": -87.791872
+  },
+  {
+    "name": "Downers Grove",
+    "lat": 41.8088554,
+    "lng": -88.0111345
+  },
+  {
+    "name": "Naperville",
+    "lat": 41.7714951,
+    "lng": -88.147999
+  },
+  {
+    "name": "Schaumburg",
+    "lat": 42.0262459,
+    "lng": -88.0697036
+  },
+  {
+    "name": "Arlington Heights",
+    "lat": 42.0829775,
+    "lng": -87.9804577
+  },
+  {
+    "name": "Evanston",
+    "lat": 42.0521566,
+    "lng": -87.6878665
+  },
+  {
+    "name": "Skokie",
+    "lat": 42.026307,
+    "lng": -87.754692
+  },
+  {
+    "name": "Joliet",
+    "lat": 41.5249557,
+    "lng": -88.0829791
+  },
+  {
+    "name": "Tinley Park",
+    "lat": 41.573246,
+    "lng": -87.784288
+  },
+  {
+    "name": "Orland Park",
+    "lat": 41.623192,
+    "lng": -87.851282
+  }
+]

@@ -1,0 +1,367 @@
+[
+  {
+    "url": "/",
+    "title": "Kitchen Cabinets in Chicago",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/chicago-kitchen-cabinets/",
+    "title": "Chicago Kitchen Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/chicago-kitchen-cabinets/collections/natural-oak/",
+    "title": "Natural Oak",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/chicago-kitchen-cabinets/collections/charcoal-gray/",
+    "title": "Charcoal Gray",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/chicago-kitchen-cabinets/collections/soft-white/",
+    "title": "Soft White",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/chicago-kitchen-cabinets/collections/warm-ivory/",
+    "title": "Warm Ivory",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/",
+    "title": "Cabinet Services in Chicago",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/kitchen-cabinets-pricing/",
+    "title": "Kitchen Cabinets Pricing",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/kitchen-cabinets-installation/",
+    "title": "Kitchen Cabinets Installation",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/custom-kitchen-cabinets/",
+    "title": "Custom Kitchen Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/cabinet-makers/",
+    "title": "Cabinet Makers",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/kitchen-remodel/",
+    "title": "Kitchen Remodel",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/kitchen-design/",
+    "title": "Kitchen Design",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/kitchen-cabinet-trends-2027/",
+    "title": "Kitchen Cabinet Trends 2027",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/services/best-kitchen-cabinets-chicago/",
+    "title": "Best Kitchen Cabinets Chicago",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/showroom/",
+    "title": "Visit Our Chicago Showroom",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/",
+    "title": "Chicago-Area Locations Served",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/locations/oak-lawn/",
+    "title": "Kitchen Cabinets Oak Lawn",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/oak-brook/",
+    "title": "Kitchen Cabinets Oak Brook",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/cicero/",
+    "title": "Kitchen Cabinets Cicero",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/maywood/",
+    "title": "Kitchen Cabinets Maywood",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/oak-park/",
+    "title": "Kitchen Cabinets Oak Park",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/brookfield/",
+    "title": "Kitchen Cabinets Brookfield",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/berwyn/",
+    "title": "Kitchen Cabinets Berwyn",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/downers-grove/",
+    "title": "Kitchen Cabinets Downers Grove",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/naperville/",
+    "title": "Kitchen Cabinets Naperville",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/schaumburg/",
+    "title": "Kitchen Cabinets Schaumburg",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/arlington-heights/",
+    "title": "Kitchen Cabinets Arlington Heights",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/evanston/",
+    "title": "Kitchen Cabinets Evanston",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/skokie/",
+    "title": "Kitchen Cabinets Skokie",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/joliet/",
+    "title": "Kitchen Cabinets Joliet",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/tinley-park/",
+    "title": "Kitchen Cabinets Tinley Park",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/locations/orland-park/",
+    "title": "Kitchen Cabinets Orland Park",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/projects/",
+    "title": "Projects & Cabinet Comparisons",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/ikea-vs-custom-cabinets/",
+    "title": "IKEA vs Custom Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/home-depot-vs-custom-cabinets/",
+    "title": "Home Depot Cabinets vs Custom Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/menards-vs-custom-cabinets/",
+    "title": "Menards vs Custom Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/builder-grade-vs-custom-cabinets/",
+    "title": "Builder Grade vs Custom Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/stock-semi-custom-custom/",
+    "title": "Stock vs Semi-Custom vs Custom Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/shaker-vs-modern-cabinets/",
+    "title": "Shaker vs Modern Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/projects/comparisons/white-oak-vs-maple-cabinets/",
+    "title": "White Oak vs Maple Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/faq/",
+    "title": "Frequently Asked Questions",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/resources/",
+    "title": "Cabinet Guides & Resources",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/resources/cabinet-cost-guide/",
+    "title": "Cabinet Cost Guide",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/resources/chicago-remodeling-guide/",
+    "title": "Chicago Remodeling Guide",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/resources/cabinet-materials-guide/",
+    "title": "Cabinet Materials Guide",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/resources/kitchen-design-guide/",
+    "title": "Kitchen Design Guide",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/resources/chicago-homeowner-guide/",
+    "title": "Chicago Homeowner Guide",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/professionals/",
+    "title": "Cabinetry for Contractors & Developers",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/sustainability/",
+    "title": "Sustainability & Community",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/about/",
+    "title": "About Amber Leaf",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/kitchen-survey/",
+    "title": "Find Your Kitchen Starting Point",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/start-order/",
+    "title": "Start Your Cabinet Order",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/privacy/",
+    "title": "Privacy",
+    "robots": "noindex,follow"
+  },
+  {
+    "url": "/cabinets/",
+    "title": "Shop Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/base/",
+    "title": "base Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/wall/",
+    "title": "wall Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/tall/",
+    "title": "tall Cabinets",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/standard-base/",
+    "title": "Standard door base cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/drawer-base/",
+    "title": "Three-drawer base cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/sink-base/",
+    "title": "Sink base cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/corner-base/",
+    "title": "Corner base cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/narrow-base/",
+    "title": "Narrow base cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/wide-base/",
+    "title": "Wide doors-and-drawer unit",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/standard-wall/",
+    "title": "Standard wall cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/tall-wall/",
+    "title": "Tall wall cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/corner-wall/",
+    "title": "Corner wall cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/pantry/",
+    "title": "Tall pantry cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/cabinets/utility/",
+    "title": "Utility & storage cabinet",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/colors-materials/",
+    "title": "Colors & Materials",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/storage-accessories/",
+    "title": "Storage Accessories",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/how-it-works/",
+    "title": "How It Works",
+    "robots": "index,follow"
+  },
+  {
+    "url": "/quote-confirmation/",
+    "title": "Your Prepared Quote Request",
+    "robots": "noindex,follow"
+  }
+]
