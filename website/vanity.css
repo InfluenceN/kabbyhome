@@ -32,25 +32,3 @@
 #v-products{padding-top:42px}#v-products .section-head{align-items:center}#v-products h1{font-size:clamp(38px,4vw,58px);margin:12px 0 10px}#v-products .v-style-tools{margin-top:20px}.v-style-image img{aspect-ratio:3/2;object-fit:contain;background:#efede5}.v-style-grid{align-items:start}
 @media(max-width:600px){#v-products{padding-top:28px}.v-style-image img{aspect-ratio:3/2}}
 
-/* Animated green fill for vanity actions. */
-:is(.vanity-page,.v-explorer) :is(.btn,.v-card-colors button,.v-product-colors button,.v-explore-button,.v-view-toggle button,.v-3d-controls button,.v-extra-units button){background-image:linear-gradient(#45663c,#45663c);background-repeat:no-repeat;background-position:left center;background-size:0% 100%;transition:background-size .32s ease,color .22s ease,border-color .22s ease}
-@media(hover:hover){:is(.vanity-page,.v-explorer) :is(.btn,.v-card-colors button,.v-product-colors button,.v-explore-button,.v-view-toggle button,.v-3d-controls button,.v-extra-units button):not(:disabled):hover{background-size:100% 100%;color:#fff!important;border-color:#45663c}:is(.vanity-page,.v-explorer) :is(.btn,.v-card-colors button,.v-product-colors button,.v-explore-button):not(:disabled):hover :is(span,strong,small){color:#fff!important}}
-:is(.vanity-page,.v-explorer) :is(.btn,.v-card-colors button,.v-product-colors button,.v-explore-button,.v-view-toggle button,.v-3d-controls button,.v-extra-units button):not(:disabled):focus-visible{background-size:100% 100%;color:#fff!important}
-@media(prefers-reduced-motion:reduce){:is(.vanity-page,.v-explorer) :is(.btn,button){transition:none}}
-
-/* White resting state, filling green on hover. */
-:is(.vanity-page,.v-explorer) :is(.btn,.v-card-colors button,.v-product-colors button,.v-explore-button,.v-view-toggle button,.v-3d-controls button,.v-extra-units button){background-color:#fff!important;color:#293b2c!important;background-image:linear-gradient(#45663c,#45663c)!important;background-repeat:no-repeat!important;background-position:left center!important;background-size:0% 100%;border-color:#45663c}
-@media(hover:hover){:is(.vanity-page,.v-explorer) :is(.btn,.v-card-colors button,.v-product-colors button,.v-explore-button,.v-view-toggle button,.v-3d-controls button,.v-extra-units button):not(:disabled):hover{background-size:100% 100%;color:#fff!important}}
-:is(.vanity-page,.v-explorer) :is(.btn,.v-card-colors button,.v-product-colors button,.v-explore-button,.v-view-toggle button,.v-3d-controls button,.v-extra-units button):not(:disabled):focus-visible{background-size:100% 100%;color:#fff!important}
-
-/* Header bathroom action matches the collection hover fill. */
-body.vanity-route .header .btn.nav-quote{background-color:#fff!important;background-image:linear-gradient(#45663c,#45663c)!important;background-repeat:no-repeat!important;background-position:left center!important;background-size:0% 100%;color:#293b2c!important;border:1px solid #45663c;transition:background-size .32s ease,color .22s ease,border-color .22s ease}
-@media(hover:hover){body.vanity-route .header .btn.nav-quote:hover{background-size:100% 100%;color:#fff!important}}
-body.vanity-route .header .btn.nav-quote:focus-visible{background-size:100% 100%;color:#fff!important}
-@media(prefers-reduced-motion:reduce){body.vanity-route .header .btn.nav-quote{transition:none}}
-
-/* Primary header action stays green; replay its fill on pointer entry. */
-body.vanity-route .header .btn.nav-quote{background-color:#45663c!important;background-size:100% 100%;color:#fff!important;transition:none}
-@keyframes v-primary-refill{from{background-color:#fff;background-size:0% 100%}to{background-color:#fff;background-size:100% 100%}}
-@media(hover:hover){body.vanity-route .header .btn.nav-quote:hover{background-color:#fff!important;animation:v-primary-refill .42s ease-out both}}
-@media(prefers-reduced-motion:reduce){body.vanity-route .header .btn.nav-quote:hover{animation:none;background-color:#45663c!important}}

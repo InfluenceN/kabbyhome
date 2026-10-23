@@ -49,3 +49,10 @@ body .home-journey .btn.btn.light:active{background-color:var(--action-pressed);
 body .footer .btn.btn.footer-order-btn{background-color:var(--action-cream);color:var(--action-bg);border-color:var(--action-cream)}
 @media(hover:hover){body .footer .btn.btn.footer-order-btn:not(:disabled):not([aria-disabled=true]):hover{background-color:var(--action-cream);background-size:100% 100%;color:#fff;border-color:var(--action-cream)}}
 body .footer .btn.btn.footer-order-btn:active{background-color:var(--action-pressed);background-size:100% 100%;color:#fff}
+
+
+/* Primary green actions: white while hovered, green refills on pointer exit. */
+body .btn.btn:not(.outline):not(.light):not(.plan-action):not(.footer-order-btn){background-color:#fff!important;background-image:linear-gradient(#293a2b,#293a2b)!important;background-position:left center!important;background-repeat:no-repeat!important;background-size:100% 100%!important;color:#fff!important;border-color:#293a2b!important;animation:none!important;box-shadow:none!important;transform:none!important;transition:background-size 420ms ease-out,color 180ms ease!important}
+body .btn.btn:not(.outline):not(.light):not(.plan-action):not(.footer-order-btn) :is(span,strong,small){color:inherit!important}
+@media(hover:hover){body .btn.btn:not(.outline):not(.light):not(.plan-action):not(.footer-order-btn):not(:disabled):not([aria-disabled=true]):hover{background-size:0% 100%!important;color:#293a2b!important;transition:color 100ms ease!important}}
+@media(prefers-reduced-motion:reduce){body .btn.btn:not(.outline):not(.light):not(.plan-action):not(.footer-order-btn){transition:none!important}}
