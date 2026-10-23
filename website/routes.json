@@ -1,5 +1,10 @@
 [
   {
+    "url": "/bathroom-vanities/",
+    "title": "Bathroom Vanities | Styles, Sizes & RTA Guides",
+    "robots": "index,follow"
+  },
+  {
     "url": "/",
     "title": "Kitchen Cabinets in Chicago",
     "robots": "index,follow"
@@ -81,88 +86,88 @@
   },
   {
     "url": "/locations/",
-    "title": "Chicago-Area Locations Served",
+    "title": "Chicago-Area Neighborhoods & Showroom Guides",
     "robots": "index,follow"
   },
   {
     "url": "/locations/oak-lawn/",
-    "title": "Kitchen Cabinets Oak Lawn",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Oak Lawn | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/oak-brook/",
-    "title": "Kitchen Cabinets Oak Brook",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Oak Brook | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/cicero/",
-    "title": "Kitchen Cabinets Cicero",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Cicero | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/maywood/",
-    "title": "Kitchen Cabinets Maywood",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Maywood | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/oak-park/",
-    "title": "Kitchen Cabinets Oak Park",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Oak Park | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/brookfield/",
-    "title": "Kitchen Cabinets Brookfield",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Brookfield | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/berwyn/",
-    "title": "Kitchen Cabinets Berwyn",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Berwyn | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/downers-grove/",
-    "title": "Kitchen Cabinets Downers Grove",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Downers Grove | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/naperville/",
-    "title": "Kitchen Cabinets Naperville",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Naperville | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/schaumburg/",
-    "title": "Kitchen Cabinets Schaumburg",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Schaumburg | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/arlington-heights/",
-    "title": "Kitchen Cabinets Arlington Heights",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Arlington Heights | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/evanston/",
-    "title": "Kitchen Cabinets Evanston",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Evanston | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/skokie/",
-    "title": "Kitchen Cabinets Skokie",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Skokie | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/joliet/",
-    "title": "Kitchen Cabinets Joliet",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Joliet | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/tinley-park/",
-    "title": "Kitchen Cabinets Tinley Park",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Tinley Park | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/locations/orland-park/",
-    "title": "Kitchen Cabinets Orland Park",
-    "robots": "noindex,follow"
+    "title": "Kitchen Cabinets in Orland Park | Showroom & Local Ideas",
+    "robots": "index,follow"
   },
   {
     "url": "/projects/",

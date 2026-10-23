@@ -1,0 +1,7 @@
+Three.js 0.180.0
+https://threejs.org/
+https://registry.npmjs.org/three/0.180.0
+MIT license: see LICENSE.txt.
+Includes three.module.js, three.core.js, RoomEnvironment.js and RoundedBoxGeometry.js.
+The addon import paths were adjusted to use the locally served three.module.js.
+The npm package tarball was verified against its published SHA-512 integrity value.

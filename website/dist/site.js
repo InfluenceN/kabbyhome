@@ -126,7 +126,7 @@
   const mobile = $('.menu-toggle');
   const resetNavigation=()=>{closeMenu(); const nav=$('#mobile-nav'); if(nav){nav.hidden=true;nav.querySelectorAll('details[open]').forEach(item=>item.open=false);} mobile?.setAttribute('aria-expanded','false');};
   resetNavigation();
-  window.addEventListener('pageshow',resetNavigation);
+  window.addEventListener('pageshow',event=>{if(event.persisted)resetNavigation();});
   window.addEventListener('pagehide',resetNavigation);
   mobile.addEventListener('click', () => { const open = mobile.getAttribute('aria-expanded') === 'true'; $('#mobile-nav').hidden = open; mobile.setAttribute('aria-expanded', String(!open)); });
   document.addEventListener('keydown', e => { if (e.key === 'Escape') { closeMenu(true); if (!$('#mobile-nav').hidden) { $('#mobile-nav').hidden = true; mobile.setAttribute('aria-expanded', 'false'); mobile.focus(); } closeHotspot(); } });
