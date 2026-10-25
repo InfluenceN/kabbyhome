@@ -17,6 +17,8 @@ function visit(dir) {
     if (entry.isDirectory()) { visit(file); continue; }
     if (!/\.(html|css|js|mjs|xml|txt|svg)$/.test(file)) continue;
     let text = fs.readFileSync(file, 'utf8');
+    // Rebase previously built local URLs when moving between Pages repositories.
+    text = text.replace(/(["'`(=])\/(?:kabbie|kabbyhome)\//g, (_, prefix) => prefix + base);
     text = text.replace(/(["'`])\/(?=[?#])/g, (_, q) => q + base);
     text = text.replace(rootUrl, (_, quote, root) => quote + base + root);
     text = text.replace(/\b(href|action)=(['"])\/(\2)/g, (_, attr, q) => `${attr}=${q}${base}${q}`);

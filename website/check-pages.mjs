@@ -23,6 +23,9 @@ function visit(dir) {
   }
 }
 visit(root);
+const comparisonCss = fs.readFileSync(path.join(root, 'commerce.css'), 'utf8');
+assert(comparisonCss.includes("url('assets/kabbie-wood-cutout.png')"), 'Kabbie comparison image must use a repository-independent CSS URL');
+assert(fs.existsSync(path.join(root, 'assets/kabbie-wood-cutout.png')), 'Missing Kabbie comparison image');
 assert(pages>=100);
 for(const name of ['index.html','kitchens/index.html','request-quote/index.html','assets/cabinet-layouts-2026.mp4'])assert(fs.existsSync(path.join(root,name)),`Missing ${name}`);
 console.log(`Passed: ${pages} pages, ${references} local URL references, canonical URLs and video asset.`);
